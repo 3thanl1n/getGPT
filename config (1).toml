@@ -1,0 +1,4 @@
+# config.toml
+
+[secrets]
+OPENAI_API_KEY = "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"

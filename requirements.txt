@@ -1,0 +1,8 @@
+requests
+chainlit
+openai
+langchain
+langchain_community
+langchain_openai
+biopython
+xmltodict

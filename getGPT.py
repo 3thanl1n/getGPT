@@ -26,6 +26,7 @@ import pandas as pd
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
+st.write(f"Streamlit version: {st.__version__}")
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')

@@ -1,5 +1,5 @@
-# getGPT
-Retrieves a gene list containing known genetic variants, differentially expressed genes, and drug targets for any disease
+# getGPT (Website: https://getgptalpha.streamlit.app/)
+Retrieves a gene list containing known genetic variants, differentially expressed genes, and drug targets for any disease.
 
 This application is a comprehensive tool for gene analysis and scientific literature review, primarily focused on disease-related genetic information. Here are the main functions and capabilities:
 
